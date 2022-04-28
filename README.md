@@ -1,2 +1,2 @@
-# Maven-sample
-For training
+# maven_repo
+maven_repo
